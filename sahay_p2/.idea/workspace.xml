@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="312fb8f1-6c89-4635-9edb-f84d7d4c0a9e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/sahay_p2/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sahay_p2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sahay_p2/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <list id="4b83a2bd-f34a-461b-82f6-255056c6649b" name="Revert &quot;Problem 2&quot;" comment="Revert &quot;Problem 2&quot;&#10;&#10;This reverts commit d145557c">
+      <change beforePath="$PROJECT_DIR$/sahay_p2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sahay_p2/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Rebase.Settings">
+    <option name="SHOW_TAGS" value="true" />
+    <option name="ONTO" value="refs/heads/master" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="KEEP" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\Sanjeev\IdeaProjects\sahay_problem2\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LineStatusTrackerManager">
+    <file path="$PROJECT_DIR$/sahay_p2/.idea/workspace.xml">
+      <ranges>
+        <range start1="3" end1="4" start2="3" end2="9" changelist="312fb8f1-6c89-4635-9edb-f84d7d4c0a9e" />
+        <range start1="22" end1="22" start2="27" end2="31" changelist="4b83a2bd-f34a-461b-82f6-255056c6649b" />
+        <range start1="23" end1="23" start2="32" end2="39" changelist="4b83a2bd-f34a-461b-82f6-255056c6649b" />
+        <range start1="24" end1="24" start2="40" end2="42" changelist="4b83a2bd-f34a-461b-82f6-255056c6649b" />
+        <range start1="37" end1="37" start2="55" end2="60" changelist="4b83a2bd-f34a-461b-82f6-255056c6649b" />
+        <range start1="74" end1="74" start2="97" end2="126" changelist="4b83a2bd-f34a-461b-82f6-255056c6649b" />
+        <range start1="75" end1="75" start2="127" end2="171" changelist="312fb8f1-6c89-4635-9edb-f84d7d4c0a9e" />
+      </ranges>
+    </file>
+  </component>
+  <component name="ProjectId" id="1SRWUnujm9Q3wP61TkqBHsQzK7r" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../sahay_problem1" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Application" />
+      <module name="sahay_problem2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="312fb8f1-6c89-4635-9edb-f84d7d4c0a9e" name="Default Changelist" comment="" />
+      <created>1571526906235</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571526906235</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="Problem 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Problem 2" />
+  </component>
+</project>
